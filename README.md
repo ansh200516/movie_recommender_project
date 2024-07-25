@@ -1,4 +1,4 @@
-# movie_recommender_project
+# Content-Based Movie Recommender Project
 ## Overview
 The Content-Based Movie Recommender is an innovative web application that enhances your movie-watching experience. By leveraging content-based filtering techniques, this tool provides users personalized movie recommendations based on their input. Users can either manually enter a movie title or select one from a drop-down menu. The recommender engine then analyzes the chosen movie and generates a list of 5 movie recommendations that are similar in content, ensuring that users receive suggestions tailored to their tastes and preferences.
 ## Key features
